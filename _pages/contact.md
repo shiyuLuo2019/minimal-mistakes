@@ -1,6 +1,7 @@
 ---
 title: Contact
 subtitle: Shiyu Luo
+permalink: /contact/
 ---
 
 #### Affiliation
