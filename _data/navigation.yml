@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "CURRICULUM VITAE"
-    url: https://shiyuLuo2019.github.io/cv/
+    url: /cv/
   - title: "PUBLICATIONS"
-    url: https://shiyuLuo2019.github.io/publications/
+    url: /publications/
   - title: "PROJECTS"
-    url: https://shiyuLuo2019.github.io/projects/
+    url: /projects/
   - title: "CONTACT"
-    url: https://shiyuLuo2019.github.io/contact/
+    url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
