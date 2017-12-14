@@ -6,19 +6,19 @@
    Typography
    ========================================================================== */
 
-$doc-font-size                : 16 !default;
+$doc-font-size                : 14 !default;
 
 /* paragraph indention */
 $paragraph-indent             : false !default; // true, false (default)
 $indent-var                   : 1.3em !default;
 
 /* system typefaces */
-$serif                        : "PT Serif", Georgia, Times, serif;
-$sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$serif                        : 'Roboto Slab', Georgia, Times, serif;
+$sans-serif                   : 'Oswald', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow            : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif-narrow            : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $helvetica                    : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
@@ -28,8 +28,8 @@ $bodoni                       : "Bodoni MT", serif !default;
 $calisto                      : "Calisto MT", serif !default;
 $garamond                     : Garamond, serif !default;
 
-$global-font-family           : $sans-serif;
-$header-font-family           : $sans-serif-narrow;
+$global-font-family           : $serif;
+$header-font-family           : $sans-serif;
 $caption-font-family          : $serif !default;
 
 /* type scale */
