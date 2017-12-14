@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Curriculum Vitae
 subtitle: Shiyu Luo
 ---
