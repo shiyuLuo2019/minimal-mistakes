@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "SHIYU LUO"
+    url: https://shiyuLuo2019.github.io/
+  - title: "CURRICULUM VITAE"
+    url: https://shiyuLuo2019.github.io/cv/
+  - title: "PUBLICATIONS"
+    url: https://shiyuLuo2019.github.io/publications/
+  - title: "PROJECTS"
+    url: https://shiyuLuo2019.github.io/projects/
+  - title: "CONCACT"
+    url: https://shiyuLuo2019.github.io/contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
