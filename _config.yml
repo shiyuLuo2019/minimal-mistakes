@@ -253,7 +253,7 @@ defaults:
       share: true
       related: true
       header:
-        image: /assets/images/purple.jpg
+        image: /assets/images/purple-narrow.jpg
         image_description: "A purple header image"
       author_profile: true
   # _pages
