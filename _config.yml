@@ -255,6 +255,7 @@ defaults:
       header:
         image: /assets/images/purple.jpg
         image_description: "A purple header image"
+      author_profile: true
   # _pages
   - scope:
       path: ""
@@ -266,4 +267,5 @@ defaults:
       header:
         image: /assets/images/purple.jpg
         image_description: "A purple header image"
+      author_profile: true
       
