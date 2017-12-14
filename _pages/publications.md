@@ -1,6 +1,7 @@
 ---
 title: Publications
 subtitle: Shiyu Luo
+permalink: /publications/
 ---
 
 ##### Multi-View Visual Recognition of Imperfect Testing Data 
