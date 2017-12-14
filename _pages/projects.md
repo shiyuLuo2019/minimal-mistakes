@@ -1,6 +1,7 @@
 ---
 title: Projects
 subtitle: Shiyu Luo
+permalink: /projects/
 ---
 
 #### Frogger
