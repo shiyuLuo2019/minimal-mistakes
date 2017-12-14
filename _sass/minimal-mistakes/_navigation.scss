@@ -12,7 +12,7 @@
   max-width: 100%;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: $serif;
+  font-family: $sans-serif;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.3s;
@@ -30,7 +30,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: 0.75em;
 
     @include breakpoint($large) {
       float: right;
