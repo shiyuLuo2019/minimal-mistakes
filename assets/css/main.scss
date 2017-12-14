@@ -6,7 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@font-face {
-    font-family: FontAwesome;
-    src: url("./fonts/fontawesome-webfont.woff2") format("woff2");
-}
