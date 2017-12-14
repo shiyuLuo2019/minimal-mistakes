@@ -75,7 +75,7 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $type-size-5;
   }
 
   /* paragraph indents */
@@ -367,7 +367,7 @@
   }
 }
 
-.comment__content-wrapper {
+.comment__-wrapper {
   float: right;
   width: calc(100% - 60px);
 
