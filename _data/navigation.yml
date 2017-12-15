@@ -8,6 +8,8 @@ main:
     url: /projects/
   - title: "CONTACT"
     url: /contact/
+  - title: "POSTS"
+    url: /posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
