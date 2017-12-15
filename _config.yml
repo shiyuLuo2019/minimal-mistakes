@@ -86,7 +86,7 @@ author:
   name             : "Shiyu Luo"
   avatar           : "photo.jpeg"
   bio              : "Graduate student in Computer Science at Northwestern University"
-  location         : "Chicago, IL"
+  location         : "Evanston, IL"
   email            : "shiyuluo2019@u.northwestern.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shiyuLuo2019"
+  github           : "shiyuLuo2019"
   gitlab           :
   google_plus      :
   keybase          :
