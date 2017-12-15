@@ -265,7 +265,7 @@ defaults:
       toc: false
       toc_label: "CONTENT"
       header:
-        image: /assets/images/purple.jpg
+        image: /assets/images/purple-super-narrow.jpg
         image_description: "A purple header image"
       author_profile: true
       
