@@ -9,5 +9,5 @@ Technological Institute, Northwestern University
 Evanston, IL 60208  
 Email: [shiyuluo2019@u.northwestern.edu](mailto:shiyuluo2019@u.northwestern.edu)  
 Linkedin: [Shiyu Luo](https://www.linkedin.com/in/shiyu-luo-025340122/)  
-Github:[Shiyu Luo](https://shiyuLuo2019.github.io/shiyuLuo2019/)
+Github:[Shiyu Luo](https://github.com/shiyuLuo2019)
 
