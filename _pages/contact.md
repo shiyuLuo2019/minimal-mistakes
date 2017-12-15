@@ -3,7 +3,7 @@ title: Contact
 subtitle: Shiyu Luo
 permalink: /contact/
 ---
-**Shiyu Luo**
+**Shiyu Luo**  
 Technological Institute, Northwestern University  
 2145 Sheridan Rd  
 Evanston, IL 60208  
